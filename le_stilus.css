@@ -75,9 +75,11 @@ h2 {
 }
 
 .kep {
-	padding-inline-end: 10px 10px;
-	border: 2px;
-	size: 190px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: none;
+	width: 190px;
+	height: auto;
 }
 
 .kepalairas{
